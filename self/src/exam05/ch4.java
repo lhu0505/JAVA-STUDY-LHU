@@ -75,7 +75,7 @@ public class ch4 {
 			}
 			System.out.println(num);
 		}
-		
+	
 		
 		//5
 		
